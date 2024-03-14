@@ -1,3 +1,5 @@
+# Лекция 5. Google Colab(Jupyter). Знакомство с аналитикой.
+# Код для Google Colab:
 import pandas as pd
 
 #читаем
